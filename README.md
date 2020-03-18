@@ -1,20 +1,17 @@
 
-================
 What is BSecdat ?
-================
+
 BsecDat is a tool written in python for erase secure files 
 leaving useless deleted files, if the forensic come to your house do not worry ;).
 
-================
 Installing:
-================
+
 No need installing. 
 Download the script Bsecdat.py and execute in your shell of commands.
-NOTA: this version run only for SO. GNU/Linux.
+NOTA: this version run only for SO. GNU/Linux. Python 2.7
 
-================
+
 Example: 
-================
 
 c0der@c0der:~/python/lab/Bsecdat$ python Bsecdat.py -d test -r 2
 
@@ -237,17 +234,15 @@ c0der@c0der:~/python/lab/Bsecdat$ python Bsecdat.py -d test -r 2
 [+] Errors: 0 errors
 [+] INFO: 100 deleted files..
 
-===========
+
 Disclaimer:
-===========
+
 The use of this tools is your responsability. 
 I hereby disclaim any responsibility for actions taken with this tool.
 
-========
-Autor: 
-========
-c0der
 
-the first version in perl by *blackngel*
+Autor: c0der 
+
+The first version in perl by *blackngel*
 in set saqueadores the ezine number 30 security of data, this tool is modified for me 'c0der', 
 written in python.
